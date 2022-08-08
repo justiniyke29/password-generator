@@ -1,0 +1,127 @@
+body{
+margin:0;
+position: absolute;
+width: 550px;
+height: 550px;
+left: 642px;
+top: 64px;
+background: #1F2937;}
+header{
+ position:absolute;
+width: 354px;
+height: 80px;
+left: 52px;
+top: 115px;
+font-family: 'Karla';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 40px;
+letter-spacing: -0.025em;
+color:#4ADF86;
+}
+
+h1{
+position: absolute;
+width: 372px;
+height: 28px;
+left: 52px;
+top: 205px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: #D5D4D8;
+}
+#button-btn{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 17px 9px 15px;
+gap: 12px;
+position: absolute;
+width: 191px;
+height: 42px;
+left: 52px;
+top: 284px;
+background: #10B981;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+font-family: 'inter';
+font-weight: bold;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+color: azure;
+line-height: 24px;
+}
+#button-btn:hover {
+    background-color: #6d6768;
+    color: white;
+  }
+  input {
+    position: absolute;
+    padding: 20px;
+    border-radius: 6px;
+    border: none;
+    border: 2px solid #8d0cf7;
+    outline: none;
+    position: absolute;
+    width: 192px;
+    height: 32px;
+    left: 297px;
+    top: 400px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: #55F991;
+    }
+
+    #password2-el{
+        position: absolute;
+        width: 180px;
+        height: 32px;
+        left: 67px;
+        top: 400px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 32px;
+        text-align: center;
+        color: #55F991;
+    }
+    #button{
+        display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 17px 9px 15px;
+gap: 12px;
+position: absolute;
+width: 191px;
+height: 42px;
+left: 52px;
+top: 284px;
+background: #10B981;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+font-family: 'inter';
+font-weight: bold;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+color: azure;
+line-height: 24px;
+margin-left: 200px
+}
+#button:hover {
+    color: white;
+    background-color: black;
+  }
+  
